@@ -9,11 +9,11 @@
 
    }
   .navbar{
-  padding-left: 300px;
+  padding-left: 800px;
+  padding-bottom: 30px;
   background-color:#EB6440 ;
   text-align: center;
   word-spacing: 50px;
-  margin-bottom: -30px;
  
   }
 
@@ -27,6 +27,7 @@
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
+
     
   }
  
@@ -50,8 +51,4 @@
       text-align: center;
       margin-top: 60px;
     }
-    @media screen and(max-widht:350){
-     .div-centralizar{
-       
-     }
-    }
+ 
