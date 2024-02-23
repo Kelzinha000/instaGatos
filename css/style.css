@@ -3,10 +3,7 @@
     margin: 0;
     padding: 0;
   }
-  body{
-      margin: 0;
-      padding: 0;
-  }
+
   
   .navbar{
   padding-left: 300px;
@@ -24,7 +21,24 @@
     display: flex;
     margin: 0;
     padding: 0; 
+    margin: 0 auto ;
+    justify-content: space-between;
    
   
   }
- 
+  .div-centralizar{
+    display: block;
+    justify-content: center;
+    justify-content: space-around;  }
+
+    .img{
+      
+      display: block;
+    }
+
+    footer {
+      background-color: #EB6440;
+      padding: 25px;
+      text-align: center;
+      margin-top: 60px;
+    }
